@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fish Gallery</string>
+    <string name="header_title">\tКомпания “Blue Rose”</string>
+    <string name="footer_title">С заботой, Blue Rose</string>
+    <string name="our_catch_title">Наш улов</string>
+    <string name="our_profit_title">Наша прибыль</string>
+    <string name="our_partners_title">Наши партнеры</string>
+    <string name="our_catch_value">~ %s тонн\t</string>
+    <string name="our_profit_value">> %s кредитов</string>
+    <string name="our_partners_value">%s+ партнеров</string>
+    <string name="currency_value">%s кредитов</string>
+</resources>

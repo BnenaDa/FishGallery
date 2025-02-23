@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fish Gallery</string>
+    <string name="header_title">Company \"Blue Rose\"</string>
+    <string name="footer_title">With care, Blue Rose</string>
+    <string name="our_catch_title">Our catch</string>
+    <string name="our_profit_title">Our profit</string>
+    <string name="our_partners_title">Our partners</string>
+    <string name="our_catch_value">~ %s tons</string>
+    <string name="our_profit_value">> %s credits</string>
+    <string name="our_partners_value">%s+ partners</string>
+    <string name="currency_value">%s credits</string>
+</resources>
